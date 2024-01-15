@@ -1,0 +1,6 @@
+name = "registry4vela"
+uuid = "f753f6c8-35cd-4917-b353-244f33990c55"
+repo = "https://github.com/abhisrkckl/julia_registry.git"
+description = "Private registry for vela"
+
+[packages]
