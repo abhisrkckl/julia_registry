@@ -5,3 +5,4 @@ description = "Private registry for vela"
 
 [packages]
 43c95830-f66f-43f3-8298-be5f3865d5b9 = { name = "GeometricUnits", path = "G/GeometricUnits" }
+e20ed1ff-b155-4b65-a650-1609b657a8ad = { name = "Vela", path = "V/Vela" }
